@@ -1,5 +1,8 @@
 # Data files (too large for GitHub)
 data/*.csv
+data/STONYBRK_20240531_CODE.csv
+data/STONYBRK_20240531_CODE.csv
+data/STONYBRK_20240531_LINE.csv
 data/*.txt
 
 # Python
